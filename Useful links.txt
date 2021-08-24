@@ -1,2 +1,3 @@
 arduino.cc
 tinkrlearnr.com
+https://arduino.pinout.guide/
