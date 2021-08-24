@@ -1,3 +1,10 @@
 arduino.cc
+https://www.tutorialspoint.com/arduino/index.htm
+
+https://create.arduino.cc/projecthub
+https://www.instructables.com/circuits/electronics/projects/
+
 tinkrlearnr.com
 https://arduino.pinout.guide/
+https://core-electronics.com.au/tutorials/compare-arduino-boards.html
+
