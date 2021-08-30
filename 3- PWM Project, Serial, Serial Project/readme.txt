@@ -1,1 +1,6 @@
-
+- Introduction to ADC in Arduino
+- ADC Commands in Arduino
+- Read Potentiometer LDR sensor data
+- Introduction to Some Other Resistive Sensors
+- Mini-Project: Room Light Controller
+- Introduction to PWM
