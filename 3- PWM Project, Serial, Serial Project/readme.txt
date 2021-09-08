@@ -1,6 +1,7 @@
-- Introduction to ADC in Arduino
-- ADC Commands in Arduino
-- Read Potentiometer LDR sensor data
-- Introduction to Some Other Resistive Sensors
-- Mini-Project: Room Light Controller
-- Introduction to PWM
+- PWM
+- Driving DC Motor with L298 Motor Driver
+- DHT11 Temperature and Humidity Sensor
+- Mini Project: COntrolling Temperatue
+- Introduction to Serial (UART)
+- Introduction to Software Serial
+- Working with USB-to-Serial Module
