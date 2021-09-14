@@ -1,4 +1,5 @@
 - Serial Protocol
+- Software Serial
 - Communicating Arduino with Laptop via Python (Pyserial)
 - Connecting Arduino to Phone via Bluetooth
 - Mini Project: Control and Log Room Temperature from Phone
