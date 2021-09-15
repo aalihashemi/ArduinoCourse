@@ -6,3 +6,9 @@
 
 - Introduction to I2C Protocol
 - Working with MAX30102 PPG Sensor
+
+MPU6050 useful library:
+https://github.com/jarzebski/Arduino-MPU6050
+
+SRF02:
+https://www.arduino.cc/en/Tutorial/LibraryExamples/SFRRangerReader
