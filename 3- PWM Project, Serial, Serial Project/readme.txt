@@ -7,9 +7,3 @@
 - Introduction to Serial (UART)
 - Introduction to Software Serial
 - Working with USB-to-Serial Module
-
-MPU6050 Suggested Library:
-https://github.com/jarzebski/Arduino-MPU6050
-
-SRF02:
-https://www.arduino.cc/en/Tutorial/LibraryExamples/SFRRangerReader
