@@ -8,3 +8,4 @@ tinkrlearnr.com
 https://arduino.pinout.guide/
 https://core-electronics.com.au/tutorials/compare-arduino-boards.html
 
+https://maxpromer.github.io/LCD-Character-Creator/
